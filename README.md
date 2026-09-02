@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=200&section=header&text=ANDERSON%20COSTA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20%7C%20Professor&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="./foto.jpg" width="140px" alt="Anderson Costa">
-
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Sistemas+%F0%9F%92%BB;Professor+de+Desenvolvimento+%F0%9F%8E%93;Desenvolvimento+Web+%F0%9F%8C%90;Desenvolvimento+Mobile+%F0%9F%93%B1;Sempre+aprendendo+%F0%9F%9A%80"/>
