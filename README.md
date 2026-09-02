@@ -74,7 +74,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas, formação que me propor
 
 ---
 
-## 🚀 Projetos
+##  Projetos
 
 🌐 **Web** — HTML, CSS, JavaScript, React e Next.js  
 📱 **Mobile** — React Native, TypeScript e Expo  
@@ -91,9 +91,9 @@ Sou graduado em Análise e Desenvolvimento de Sistemas, formação que me propor
 
 <div align="center">
 
-### 💡 "A tecnologia transforma ideias em possibilidades."
+###  "A tecnologia transforma ideias em possibilidades."
 
-⭐ Obrigado por visitar meu perfil!
+ Obrigado por visitar meu perfil!
 
 </div>
 
