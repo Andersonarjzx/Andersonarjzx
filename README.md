@@ -24,7 +24,15 @@
 
 ---
 
-## 👋 Sobre mim
+## Sobre mim
+
+Olá! Meu nome é Anderson Costa e sou um desenvolvedor front-end e back-end apaixonado por criar experiências digitais elegantes e intuitivas. Tenho uma base sólida em HTML5 , CSS3 (incluindo Grid e Flexbox) e JavaScript. Além disso, possuo experiência e conhecimento em tecnologias de ponta como React.js, Next.js e React Native para o desenvolvimento de interfaces e aplicações modernas.
+
+No Back-end, trabalho com linguagens como Java e PHP, e tenho proficiência com bancos de dados, incluindo MongoDB. Minha meta é sempre entregar projetos de alta performance, totalmente responsivos e com a combinação ideal de design moderno e código limpo.
+
+Sou graduado em Análise e Desenvolvimento de Sistemas, formação que me proporcionou uma visão analítica e estruturada para resolver problemas complexos e arquitetar soluções eficientes de ponta a ponta.
+
+---
 
 💻 Desenvolvedor de Sistemas  
 🎓 Professor de Desenvolvimento de Sistemas  
@@ -61,13 +69,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,docker,postman,figma,linux"/>
 </p>
 
----
-
-
-
-</div>
-
----
 
 
 
