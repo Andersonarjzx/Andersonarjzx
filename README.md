@@ -20,7 +20,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+  Sobre mim
 
 <table>
 <tr>
@@ -42,7 +42,7 @@ Olá! Sou **Anderson Costa**, Desenvolvedor de Sistemas e Professor de Desenvolv
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png" width="220"/>
 
-### 🐸 Greninja
+###  Greninja
 
 **Ninja Mode: ON ⚡**
 
@@ -60,15 +60,15 @@ Olá! Sou **Anderson Costa**, Desenvolvedor de Sistemas e Professor de Desenvolv
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,php,cs,c,cpp&perline=10"/>
 
-### 🚀 Frameworks
+###  Frameworks
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,dotnet,bootstrap,tailwind,reactnative,expo&perline=8"/>
 
-### 🗄️ Banco de Dados
+###  Banco de Dados
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,firebase&perline=8"/>
 
-### 🔧 Ferramentas
+###  Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm,docker,postman,figma,linux&perline=9"/>
 
@@ -76,7 +76,7 @@ Olá! Sou **Anderson Costa**, Desenvolvedor de Sistemas e Professor de Desenvolv
 
 ---
 
-## 🚀 O que eu faço
+##  O que eu faço
 
 <div align="center">
 
@@ -96,7 +96,7 @@ Programação • Sistemas • Projetos Educacionais
 
 ---
 
-## 📊 GitHub
+##  GitHub
 
 <div align="center">
 
@@ -108,7 +108,7 @@ Programação • Sistemas • Projetos Educacionais
 
 ---
 
-## ⚡ Atualmente estudando
+##  Atualmente estudando
 
 <div align="center">
 
